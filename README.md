@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="app_icon.ico" alt="StandUpReminder Logo" width="100" height="100">
+<img src="logo.png" alt="StandUpReminder Logo" width="100" height="100">
 
 # StandUpReminder — Trợ Lý Nhắc Đứng Dậy & Văn Hóa Dân Gian
-
-<img width="860" height="468" alt="preview" src="https://github.com/user-attachments/assets/cf4a8205-7d4d-432e-9487-2414b5a78ffe" />
-
 
 **Giải pháp bảo vệ sức khỏe cột sống thông minh cho người làm việc trên máy tính Windows — Kết hợp nhịp vận động 30 phút khoa học, chống bấm nhầm theo phản xạ và kho tàng hàng trăm câu Ca dao Tục ngữ Việt Nam.**
 
@@ -89,7 +86,7 @@ Yêu cầu máy tính đã cài đặt **Python 3.10 trở lên**:
 
 ```bash
 # Bước 1: Clone repository về máy
-git clone [https://github.com/TEN_USER_CUA_BAN/StandUpReminder.git](https://github.com/TEN_USER_CUA_BAN/StandUpReminder.git)
+git clone [https://github.com/Hieukhongbietcode/StandUpReminder.git](https://github.com/Hieukhongbietcode/StandUpReminder.git)
 cd StandUpReminder
 
 # Bước 2: Cài đặt 3 thư viện phụ thuộc
